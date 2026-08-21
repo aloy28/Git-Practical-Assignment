@@ -1,0 +1,1 @@
+Hello, my name is Aloysius Faleiro . I am a student of MSc Integrated Data Science at Goa Business School, Goa University. I am interested in data science, technology and learning new technical skills. This practical helped me understand the basic concepts of Git and GitHub and how they can be used to manage and collaborate on projects.
