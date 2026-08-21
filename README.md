@@ -13,7 +13,9 @@ Git Practical Assignment
 
 ## Purpose of the Repository
 
-The purpose of this repository is to demonstrate the basic concepts and practical usage of Git and GitHub. It contains the files and activities completed as part of the Basic Toolkit for Research practical.
+- The purpose of this repository is to demonstrate the basic concepts and practical usage of Git and GitHub. It contains the files and activities completed as part of the Basic Toolkit for Research practical.
+- Learning basis
+
 
 ## Objectives
 
